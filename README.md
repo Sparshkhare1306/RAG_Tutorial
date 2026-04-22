@@ -32,7 +32,5 @@ cd RAG_Tutorial
 GROQ_API_KEY=your_key_here
 HUGGINGFACE_API_KEY=your_key_here
 ```
-4. Run:
-`python main.py`
 
 **NOTE:** You can replace the data folder with your own documents to test the pipeline.
